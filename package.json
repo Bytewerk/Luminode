@@ -1,0 +1,10 @@
+{
+  "name": "lumirc",
+  "description": "Lässt die Steuerung der LUMINO-Anzeigetafel über IRC zu",
+  "version": "0.0.1",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+  "dependencies": {
+    "irc": "latest",
+    "teletype": "latest"
+  }
+}
