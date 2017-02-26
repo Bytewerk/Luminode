@@ -6,10 +6,11 @@ This project allows users to show text on the Luminode display from IRC by messa
 TODO
 
 # Install
-1. `git clone https://github.com/ThePlatzhalter/Luminode`
-2. `cd Luminode`
-3. `npm install`
-4. `node index.js`
+1. Clone the GIT repo `git clone https://github.com/ThePlatzhalter/Luminode`
+2. Change the working directory `cd Luminode`
+3. Install all dependencies `npm install`
+4. Edit the config `vi config.js`
+5. Run the app `node index.js`
 
 # License
 Do what the fuck you want with this code. I don't care.
